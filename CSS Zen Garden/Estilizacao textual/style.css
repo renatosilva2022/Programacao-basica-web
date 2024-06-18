@@ -1,0 +1,20 @@
+
+html { 
+    background-color: #777799;
+    color: #ffffff;
+}
+html {
+    font-size: 24px;
+    font-family: "Sarala", sans-serif;
+    font-style: normal;
+    text-indent: 1em;
+}
+
+H1, H2, H3 {text-align: center;}
+H1{ font-size: 1.8rem;}
+H2{ font-size: 1.4rem;}
+H3{ font-size: 1.2rem;}
+
+.summary{ text-align: right;}
+.Main {line-height: 1.5;}
+.abbr {font-family: small-caps;}
